@@ -1,3 +1,3 @@
-<p style="text-align:center;">👋 Welcome!</p>
+<p align="center">👋 Welcome!</p>
 
-<p style="text-align:center;">⚙️</p>
+<p align="center">⚙️</p>
