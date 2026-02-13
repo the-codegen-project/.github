@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>⚡️The Codegen Project⚡️</h1>
+<h1>⚡️Code-Forge⚡️</h1>
 
 **Simplify Your Implementation in Any Language — Effortlessly.**
 
