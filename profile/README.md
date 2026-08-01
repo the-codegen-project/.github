@@ -2,7 +2,7 @@
 
 <h1>⚡️Code-Forge⚡️</h1>
 
-**Simplify Your Implementation in Any Language — Effortlessly.**
+**Simplify Your Implementation in Any Language — Effortlessly**
 
 [![License](https://img.shields.io/github/license/the-codegen-project/cli)](https://github.com/the-codegen-project/cli/blob/master/LICENSE)
 [![Npm latest version](https://img.shields.io/npm/v/@the-codegen-project/cli)](https://www.npmjs.com/package/@the-codegen-project/cli)
@@ -21,9 +21,15 @@
 
 ---
 
-## Imagine a World Where Your Code Writes Itself
+## Stop spending time writing the wrong code
 
-Modern development is fast-paced—and repetitive boilerplate shouldn’t slow you down. The Codegen Project CLI transforms your **AsyncAPI** (and similar standard) documents into production-ready code. Whether you're generating payload models, crafting custom generators, or automating your entire codebase setup, our CLI is your secret weapon.
+
+Unleash the power of automation and spend more time on what truly matters — **your business logic**!
+
+> Ready to get started? Install the CLI now and transform your development workflow.
+
+
+Modern development is fast-paced—and repetitive boilerplate shouldn’t slow you down. The Codegen Project CLI transforms your well defined APIs (AsyncAPI, OpenAPI) into production-ready code. Whether you're generating payload models, protocol functions, crafting custom generators, or automating your entire codebase setup, our CLI is your secret weapon.
 
 ---
 
@@ -56,12 +62,14 @@ npm install --save-dev @the-codegen-project/cli
 ```
 ### Using Yarn
 
+```
 yarn add @the-codegen-project/cli
+```
 
 ### Using Pnpm
-
+```
 pnpm add @the-codegen-project/cli
-
+```
 ### Manually
 Or download a prebuilt package directly:
 
@@ -84,11 +92,12 @@ This creates a configuration file where you can specify your input document, tar
 
 ### 2. Generate Code:
 ```
-    codegen generate
+codegen generate
 ```
-Watch as your models, payloads, and more are generated automatically!
+Watch as your models, payloads, and more being generated!
 
-### 3. Customize & Integrate: Tweak the configuration to tailor the output exactly to your needs and integrate the generated code into your project seamlessly.
+### 3. Customize & Integrate
+Tweak the configuration to tailor the output exactly to your needs and integrate the generated code into your project seamlessly.
 
 ---
 
@@ -96,23 +105,8 @@ Watch as your models, payloads, and more are generated automatically!
 
 Dive deeper into all features, use cases, and best practices on our [website](https://the-codegen-project.org/) and [docs](https://the-codegen-project.org/docs/).
 
-Have questions or ideas? Join our community:
-
-- GitHub Discussions: Share your experiences and suggestions.
-- GitHub Issues: Share ideas and problems.
-
----
-
-## 🤝 Contributing
-
-We welcome contributions of all kinds! Please take a look at our [Contribution Guidelines for more details](https://the-codegen-project.org/docs/contributing).
-
 ---
 
 ## 📄 License
 
 [The Codegen Project CLI is licensed under the Apache-2.0 License](https://github.com/the-codegen-project/cli/blob/main/LICENSE).
-
-Unleash the power of automation and spend more time on what truly matters—your business logic!
-
-> Ready to get started? Install the CLI now and transform your development workflow.
